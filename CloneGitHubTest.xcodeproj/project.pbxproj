@@ -11,6 +11,7 @@
 		43C1443E2AF9385F00B7D2F0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C1443D2AF9385F00B7D2F0 /* ContentView.swift */; };
 		43C144402AF9386000B7D2F0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43C1443F2AF9386000B7D2F0 /* Assets.xcassets */; };
 		43C144432AF9386000B7D2F0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43C144422AF9386000B7D2F0 /* Preview Assets.xcassets */; };
+		43C1444A2AF9395C00B7D2F0 /* NewTestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C144492AF9395C00B7D2F0 /* NewTestView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		43C1443D2AF9385F00B7D2F0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		43C1443F2AF9386000B7D2F0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		43C144422AF9386000B7D2F0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		43C144492AF9395C00B7D2F0 /* NewTestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTestView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				43C1443B2AF9385F00B7D2F0 /* CloneGitHubTestApp.swift */,
 				43C1443D2AF9385F00B7D2F0 /* ContentView.swift */,
+				43C144492AF9395C00B7D2F0 /* NewTestView.swift */,
 				43C1443F2AF9386000B7D2F0 /* Assets.xcassets */,
 				43C144412AF9386000B7D2F0 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				43C1443E2AF9385F00B7D2F0 /* ContentView.swift in Sources */,
+				43C1444A2AF9395C00B7D2F0 /* NewTestView.swift in Sources */,
 				43C1443C2AF9385F00B7D2F0 /* CloneGitHubTestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
